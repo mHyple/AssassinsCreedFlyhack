@@ -17,3 +17,5 @@ plus  - Increments flight speed
 
 minus  - Dencrements flight speed
 
+End - uninject DLL library
+
