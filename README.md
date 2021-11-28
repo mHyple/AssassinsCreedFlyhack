@@ -1,4 +1,6 @@
-   KeyMap
+
+
+======================= KeyMap =======================
 
 
 Right Ctrl - Activate FlyHack
@@ -20,7 +22,10 @@ minus  - Dencrements flight speed
 End - uninject DLL library
 
 
-How to inject DLL to the game
+========= How to inject DLL to the game =========
+
+
+
 
 Download any game DLL injector
 
