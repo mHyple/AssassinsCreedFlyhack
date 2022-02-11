@@ -13,6 +13,8 @@ T - Desmond can see pictures without an eagle vision filter.
 
 L - Turn Off console
 
+E - for better camera movements (in Desmond world)
+
 Left Shift -  Change flight speed
 
 plus  - Increments flight speed
